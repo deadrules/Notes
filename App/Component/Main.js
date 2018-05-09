@@ -34,7 +34,6 @@ export default class Main extends React.Component {
                     <Text style={styles.headerText}>-Notes-</Text>
                 </View>
                 <ScrollView
-                
                     style={styles.scrollcontainer}>Ï
                     {notes}
                 </ScrollView>
